@@ -58,7 +58,7 @@
   <tr>
     <td width="33%" valign="top">
       <a href="https://github.com/27saniya/Restaurant-Recommendation-System/tree/main" target="_blank" rel="noreferrer noopener">
-        <img src="https://github.com/27saniya/27saniya/blob/main/assets/customer.png" alt="Project Image" width="100%"/>
+        <img src="https://github.com/27saniya/27saniya/blob/main/assets/resturant-edi.png" alt="Project Image" width="100%"/>
       </a>
     </td>
     <td>
