@@ -39,12 +39,13 @@
 
 <br>
 <br>
+<p></p>
 
 <table>
   <tr>
     <td width="33%" valign="top">
       <a href="https://github.com/27saniya/Customer-Shopping-Behavior-Analysis">
-        <img src="https://yourimageurl.com" alt="Project Image" width="100%"/>
+        <img src="https://github.com/27saniya/27saniya/blob/main/assets/customer.png" alt="Project Image" width="100%"/>
       </a>
     </td>
     <td>
