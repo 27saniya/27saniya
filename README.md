@@ -2,13 +2,12 @@
 <h3 align="center">Passionate Data Analyst with a flair for transforming complex data into actionable insights. 😄
 </h3>
 
-<p align="center"> 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/saniya-lande/)](https://www.linkedin.com/in/saniya-lande/)
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:saniya.lande@sjsu.edu)](mailto:saniya.lande@sjsu.edu) 
-</p>
 
-- 🔭 I’m currently working on building a multimedia intelligent chatbot for AI testing tool and also a code translator tool using Large Language Models
+
+- 🔭 I’m currently working on building an intelligent Multimedia chatbot for AI testing tool and also a code translator tool using Large Language Models
 
 - 🌱 I’m currently learning Knowledge Graphs and Large Language Models for Natural Language Processing
 
