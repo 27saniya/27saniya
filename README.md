@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/27saniya/#/](https://github.com/27saniya)
 
-- 💬 Ask me about **Statistics, Data Modeling, Database Systems, Machine Learning and Data Visualization**
+- 💬 Ask me about **Statistics, Data Modeling, Database Systems, Machine Learning, Natural Language Processing and Data Visualization**
 
 - 📫 How to reach me **saniya.lande@sjsu.com** or **saniyalande17@gmail.com**
 
