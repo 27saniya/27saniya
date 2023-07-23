@@ -62,9 +62,9 @@
       </a>
     </td>
     <td>
-      <h3><a href="https://github.com/27saniya/development-indicators/blob/main/final_report.pdf">Data Analsis for Developmental Indicators</a></h3>
+      <h3><a href="https://github.com/27saniya/development-indicators/blob/main/final_report.pdf">Data Analysis for Developmental Indicators</a></h3>
       <p>This project aims to analyze historical data on GDP per capita, life expectancy, child mortality per 1000 births, and CO2 emissions per person to gain valuable insights into the quality of life in various countries and continents. By studying these key development indicators, we seek to identify patterns and trends that shed light on global socioeconomic and environmental conditions, helping us understand disparities and progress across different regions.</p>
-      <a href="https://public.tableau.com/app/profile/saniya8270/viz/CustomerShoppingbehaviorAnalysis/CustomerShoppingBehaviorAnalysis" target="_blank" rel="noreferrer noopener">View Deployment</a>
+      <a href="https://public.tableau.com/app/profile/saniya8270/viz/CustomerShoppingbehaviorAnalysis/CustomerShoppingBehaviorAnalysis" target="_blank" 
     </td>
   </tr>
 
