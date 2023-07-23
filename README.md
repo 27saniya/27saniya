@@ -57,8 +57,8 @@
   
   <tr>
     <td width="33%" valign="top">
-      <a href="https://github.com/27saniya/Customer-Shopping-Behavior-Analysis" target="_blank" rel="noreferrer noopener">
-        <img src="https://github.com/27saniya/27saniya/blob/main/assets/customer.png" alt="Project Image" width="100%"/>
+      <a href="https://github.com/27saniya/development-indicators/blob/main/final_report.pdf" target="_blank" rel="noreferrer noopener">
+        <img src="https://github.com/27saniya/27saniya/blob/main/assets/development_indicators.png" alt="Project Image" width="100%"/>
       </a>
     </td>
     <td>
