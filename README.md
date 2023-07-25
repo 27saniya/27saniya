@@ -88,7 +88,7 @@
     </td>
     <td>
       <h3><a href="https://github.com/27saniya/Restaurant-Recommendation-System/tree/main">Restaurant Recommendation System</a></h3>
-      <p>This project involves the extraction and preprocessing of data from Yelp using Pandas, Matplotlib, and NLTK, to create a sophisticated restaurant recommendation system. The system employs a hybrid model that combines content-based filtering, memory-based collaborative filtering, and latent factor collaborative filtering, further enriched with sentiment analysis for improved recommendation accuracy and diversity..</p>
+      <p>This project involves the extraction and preprocessing of data from Yelp using Pandas, Matplotlib, and NLTK, to create a sophisticated restaurant recommendation system. The system employs a hybrid model that combines content-based filtering, memory-based collaborative filtering, and latent factor collaborative filtering, further enriched with sentiment analysis for improved recommendation accuracy and diversity.</p>
       <a href="#">View Deployment</a>
     </td>
   </tr>
