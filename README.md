@@ -43,7 +43,7 @@
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="33%" valign="center">
       <a href="https://github.com/27saniya/Customer-Shopping-Behavior-Analysis" target="_blank" rel="noreferrer noopener">
         <img src="https://github.com/27saniya/27saniya/blob/main/assets/customer.png" alt="Project Image" width="100%" height = '100%'/>
       </a>
