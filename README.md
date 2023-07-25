@@ -71,7 +71,7 @@
   <tr>
     <td width="33%" valign="top">
       <a href="https://github.com/27saniya/Performance-Comparison-of-NBA-Players" target="_blank" rel="noreferrer noopener">
-        <img src="https://github.com/27saniya/27saniya/blob/main/assets/mongo-vs-cassandra-e1588071082753.png" alt="Project Image" width="100%"/>
+        <img src="https://github.com/27saniya/Performance-Comparison-of-NBA-Players/blob/main/mongo-vs-cassandra-e1588071082753_768x512.png" alt="Project Image" width="100%"/>
       </a>
     </td>
     <td>
