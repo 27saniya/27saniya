@@ -70,6 +70,18 @@
 
   <tr>
     <td width="33%" valign="top">
+      <a href="https://github.com/27saniya/Performance-Comparison-of-NBA-Players" target="_blank" rel="noreferrer noopener">
+        <img src="https://github.com/27saniya/27saniya/blob/main/assets/mongo-vs-cassandra-e1588071082753.png" alt="Project Image" width="100%"/>
+      </a>
+    </td>
+    <td>
+      <h3><a href="https://github.com/27saniya/Performance-Comparison-of-NBA-Players/blob/main/Comparsion_Cassandra_mongodb.pdf">Comparative Performance Analysis between Cassandra and MongoDB</a></h3>
+      <p>This project involves a performance comparison between Cassandra and MongoDB, two leading NoSQL databases, using the NBA player dataset. The aim is to understand the advantages and limitations of each database for on-field sports analytics, considering factors such as execution time, consistency (CAP theorem), and latency patterns under different scenarios.</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="33%" valign="top">
       <a href="https://github.com/27saniya/Restaurant-Recommendation-System/tree/main" target="_blank" rel="noreferrer noopener">
         <img src="https://github.com/27saniya/27saniya/blob/main/assets/resturant-edi.png" alt="Project Image" width="100%"/>
       </a>
