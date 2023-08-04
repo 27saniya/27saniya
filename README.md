@@ -50,7 +50,7 @@
     </td>
     <td>
       <h3><a href="https://github.com/27saniya/ArtifyGAN/blob/main/ArtifyGAN.pdf">ArtifyGAN: Animated Face Image Generation using GANs</a></h3>
-      <p>This project involves the development and implementation of ArtifyGAN, an advanced GAN architecture designed for the generation of high-quality, realistic animated facial images. ArtifyGAN is trained from scratch, demonstrating superior control, customization, and efficiency. An exhaustive comparative analysis conducted with other pre-trained models such as StyleGAN2, AnimeGAN, and JojoGAN emphasized ArtifyGAN's superior performance, particularly its ability to capture fine facial details effectively, thereby pushing the envelope in animated face image generation.</p>
+      <p>This project involves the development and implementation of ArtifyGAN, an advanced GAN architecture designed for the generation of high-quality, realistic animated facial images. ArtifyGAN is trained from scratch, demonstrating superior control, customization, and efficiency. An exhaustive comparative analysis conducted with other pre-trained models such as StyleGAN2, AnimeGAN, and JojoGAN emphasized ArtifyGAN's superior performance, particularly its ability to capture fine facial details and the face structure effectively.</p>
     </td>
   </tr>
   
