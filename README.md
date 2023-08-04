@@ -49,7 +49,7 @@
       </a>
     </td>
     <td>
-      <h3><a href="https://github.com/27saniya/Customer-Shopping-Behavior-Analysis">Customer Shopping Behavior Analysis</a></h3>
+      <h3><a href="https://github.com/27saniya/ArtfyGAN">ArtifyGAN: Animated Face Image Generation using GANs</a></h3>
       <p>This project utilizes AWS cloud computing services and Tableau to analyze and visualize large-scale e-commerce data, focusing on identifying consumer buying patterns and preferences. The goal is to understand the key factors influencing online shopping experiences and purchases, enabling more targeted promotions and product recommendations to boost sales.</p>
       <a href="https://public.tableau.com/app/profile/saniya8270/viz/CustomerShoppingbehaviorAnalysis/CustomerShoppingBehaviorAnalysis" target="_blank" rel="noreferrer noopener">View Deployment</a>
     </td>
