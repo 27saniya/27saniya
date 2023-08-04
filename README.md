@@ -51,7 +51,6 @@
     <td>
       <h3><a href="https://github.com/27saniya/ArtfyGAN">ArtifyGAN: Animated Face Image Generation using GANs</a></h3>
       <p>This project utilizes AWS cloud computing services and Tableau to analyze and visualize large-scale e-commerce data, focusing on identifying consumer buying patterns and preferences. The goal is to understand the key factors influencing online shopping experiences and purchases, enabling more targeted promotions and product recommendations to boost sales.</p>
-      
     </td>
   </tr>
   
