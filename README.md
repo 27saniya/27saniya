@@ -70,13 +70,13 @@
 
    <tr>
     <td width="33%" valign="top">
-      <a href="https://github.com/27saniya/ArtifyGAN/blob/main/ArtifyGAN.pdf" target="_blank" rel="noreferrer noopener">
-        <img src="https://github.com/27saniya/27saniya/blob/main/assets/cartoon%20(3).jpg" alt="Project Image" width="100%" height = '100%'/>
+      <a href="https://github.com/27saniya/Digital-Music-Store---Data-Analysis-using-SQL/blob/main/DataAnalysis_Digital_Music_Store.ipynb" target="_blank" rel="noreferrer noopener">
+        <img src="https://github.com/27saniya/27saniya/blob/main/assets/music.png" alt="Project Image" width="100%" height = '100%'/>
       </a>
     </td>
     <td>
-      <h3><a href="https://github.com/27saniya/ArtifyGAN/blob/main/ArtifyGAN.pdf">ArtifyGAN: Animated Face Image Generation using GANs</a></h3>
-      <p>This project involves developing ArtifyGAN, a GAN architecture, trained from scratch to generate superior, customizable, and efficient animated facial images. ArtifyGAN's performance, validated through a comprehensive comparison with models like StyleGAN2, AnimeGAN, and JojoGAN, stands out for its ability to effectively capture intricate facial details and structures.
+      <h3><a href="https://github.com/27saniya/Digital-Music-Store---Data-Analysis-using-SQL/blob/main/DataAnalysis_Digital_Music_Store.ipynb">Data Analysis using SQL for Digital Music Store</a></h3>
+      <p>The aim of this project is to analyze the Chinook Database, which encapsulates information about a music store's media, customers, employees, and invoices. Using SQL queries, various facets of the store's operationswill be interpreted, extracting key insights from sales patterns, customer preferences, and employee performance. This detailed analysis will provide a comprehensive understanding of the store's dynamics and potential areas of growth or improvement.
 </p>
     </td>
   </tr>
