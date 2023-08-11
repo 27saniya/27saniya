@@ -75,7 +75,7 @@
       </a>
     </td>
     <td>
-      <h3><a href="https://github.com/27saniya/Digital-Music-Store---Data-Analysis-using-SQL/blob/main/DataAnalysis_Digital_Music_Store.ipynb">Data Analysis using SQL for Digital Music Store</a></h3>
+      <h3><a href="https://github.com/27saniya/Digital-Music-Store---Data-Analysis-using-SQL/blob/main/DataAnalysis_Digital_Music_Store.ipynb">Data Analysis for Digital Music Store using SQL </a></h3>
       <p>The aim of this project is to analyze the Chinook Database, which encapsulates information about a music store's media, customers, employees, and invoices. Using SQL queries, various facets of the store's operationswill be interpreted, extracting key insights from sales patterns, customer preferences, and employee performance. This detailed analysis will provide a comprehensive understanding of the store's dynamics and potential areas of growth or improvement.
 </p>
     </td>
