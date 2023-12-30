@@ -49,7 +49,7 @@
         <img src="https://github.com/27saniya/27saniya.github.io/blob/main/images/chatbot2.png" alt="Project Image" width="100%" height = '100%'/>
       </a>
     </td>
-    <td>
+    <td  width="60%" >
       <h3><a href="https://github.com/27saniya/AI-Testing-tool-Chatbot/blob/master/AI_Testing_Tool_Chatbot.pdf">Multimedia Chatbot for AI testing tool</a></h3>
       <p>This project developed a multimedia chatbot for AI testing, handling text, image, and audio inputs. Utilizing Neo4j for knowledge graph-based retrieval and transformers for response generation, it achieved a BLEU score of 0.95. It featured YOLO for UI detection, OCR Tesseract for text extraction, and the Whisper model for precise audio-to-text conversion
 </p>
