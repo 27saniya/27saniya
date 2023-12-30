@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:saniya.lande@sjsu.edu)](mailto:saniya.lande@sjsu.edu) 
 
 
-- 🔭 I’m currently working on building an intelligent Multimedia chatbot for AI testing tool and also a code translator tool using Large Language Models
+- 🔭 I’m currently working on building an intelligent Multimedia chatbot for AI testing tool.
 
 - 🌱 I’m currently learning Knowledge Graphs and Large Language Models for Natural Language Processing
 
@@ -42,6 +42,20 @@
 <p></p>
 
 <table>
+
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/27saniya/AI-Testing-tool-Chatbot/blob/master/AI_Testing_Tool_Chatbot.pdf" target="_blank" rel="noreferrer noopener">
+        <img src="https://github.com/27saniya/27saniya.github.io/blob/main/images/chatbot2.png" alt="Project Image" width="100%" height = '100%'/>
+      </a>
+    </td>
+    <td>
+      <h3><a href="https://github.com/27saniya/AI-Testing-tool-Chatbot/blob/master/AI_Testing_Tool_Chatbot.pdf">Multimedia Chatbot for AI testing tool</a></h3>
+      <p>This project developed a multimedia chatbot for AI testing, handling text, image, and audio inputs. Utilizing Neo4j for knowledge graph-based retrieval and transformers for response generation, it achieved a BLEU score of 0.95. It featured YOLO for UI detection, OCR Tesseract for text extraction, and the Whisper model for precise audio-to-text conversion
+</p>
+    </td>
+  </tr>
+  
   <tr>
     <td width="33%" valign="top">
       <a href="https://github.com/27saniya/ArtifyGAN/blob/main/ArtifyGAN.pdf" target="_blank" rel="noreferrer noopener">
