@@ -46,7 +46,7 @@
   <tr>
     <td width="33%" valign="top">
       <a href="https://github.com/27saniya/AI-Testing-tool-Chatbot/blob/master/AI_Testing_Tool_Chatbot.pdf" target="_blank" rel="noreferrer noopener">
-        <img src="https://github.com/27saniya/27saniya.github.io/blob/main/images/chatbot.jpg" alt="Project Image" width="100%" height = '100%'/>
+        <img src="https://github.com/27saniya/27saniya.github.io/blob/main/images/chatbot2.png" alt="Project Image" width="100%" height = '100%'/>
       </a>
     </td>
     <td>
